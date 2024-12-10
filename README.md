@@ -3,7 +3,7 @@ Project to ILLUMEO test for "ponto" application
 
 ## Getting Started
 
-First, copy or clone the repository on your local machine, after that will described how to installit and run.
+First, copy or clone the repository on your local machine, after that will described how to install it and run.
 
 ### Prerequisites
 
