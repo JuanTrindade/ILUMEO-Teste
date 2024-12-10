@@ -61,13 +61,22 @@ npx knex migrate:latest .\knexfile.js
 ```
 This will run the migrations!
 
-### Running servers
+## Running Servers
 If all that steps will did correctly, you will be able to run the project frontend and backend servers, to run just use the command:
 
 ```
 npm start
 ```
 in the root of backend and frontend folders
+
+### Creating User
+Finally you will need to create a user to log-in on platform, when back end server is running just send a post request to: ``"localhost/usercreate"``.
+The body must be a json like that:
+
+```json
+"user_code": "the_code"
+"name": "name"
+```
 
 ## Author
 
