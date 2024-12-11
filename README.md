@@ -1,4 +1,4 @@
-# ILLUMEO - Ponto
+# ILUMEO - Ponto
 Project to ILLUMEO test for "ponto" application
 
 ## Getting Started
